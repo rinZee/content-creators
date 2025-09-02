@@ -1,0 +1,24 @@
+{
+  "name": "content-creators-app",
+  "version": "1.0.0",
+  "description": "A frontend application for managing content creators with CRUD operations.",
+  "main": "src/main.jsx",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "serve": "vite preview"
+  },
+  "dependencies": {
+    "@supabase/supabase-js": "^1.35.7",
+    "axios": "^0.21.1",
+    "react": "^18.0.0",
+    "react-dom": "^18.0.0",
+    "react-router-dom": "^6.30.1"
+  },
+  "devDependencies": {
+    "vite": "^2.0.0"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
